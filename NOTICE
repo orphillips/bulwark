@@ -1,0 +1,22 @@
+Bulwark — AI Agent Security Evaluation Framework
+Copyright 2026 Olav Phillips
+
+This product includes concepts and architectural inspiration from:
+
+  safelabs-eval
+  Copyright 2026 AgentSafeLabs (Waqar Javed)
+  Licensed under the Apache License, Version 2.0
+  https://github.com/AgentSafeLabs/safelabs-eval
+
+All code in this repository is original work. No source code was copied
+from safelabs-eval. The OWASP Agentic Security Initiative (ASI) Top 10
+categories referenced in this project are a public standard maintained
+by the OWASP Foundation (https://owasp.org/).
+
+Third-party dependencies and their licenses:
+
+  pydantic (>=2.0)        — MIT License
+  httpx (>=0.25)          — BSD 3-Clause License
+  click (>=8.0)           — BSD 3-Clause License
+  rich (>=13.0)           — MIT License
+  langchain-core          — MIT License (optional dependency)
